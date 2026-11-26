@@ -6,7 +6,7 @@ import './navbar.css'
 function Navbar() {
     const navigate = useNavigate()
   return (
-    <div className='flex flex-row w-full justify-between'>
+    <div className='flex flex-row px-10 py-10 w-full justify-between'>
       <div>
         <h2>LOGO</h2>
       </div>
